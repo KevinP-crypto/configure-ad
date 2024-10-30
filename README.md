@@ -593,6 +593,6 @@ If too many login attempts are made, you can click properties on the user and go
 <img src="https://i.imgur.com/4YN1qzJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-You can also reset password or disable account by right clicking. That's it! Congratulations on implementing Active Directory!
+You can also reset password or disable account by right clicking.
 </p>
 <br />
